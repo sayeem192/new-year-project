@@ -69,6 +69,7 @@
    
     font-size: 16px;
     line-height: 1.5em;
+    list-style-type: "\2713";
 }
 
 .first2{
@@ -111,4 +112,15 @@
     padding: 100px 150px ;
  }
 
- 
+
+ .third2{
+   
+  font-size: 20px;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(47, 79, 161);
+  padding-top: 5%;
+}
+
