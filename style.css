@@ -1,0 +1,42 @@
+
+#side{
+   
+    text-align: right;
+    float: right;
+    top: 140px;
+    right: 16px;
+    position: absolute;
+    padding-right: 220px;
+    padding-top: 10px ;
+    color: white;
+  }
+
+
+  .first{
+   
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+
+  }
+
+  .second{
+   
+    font-size: 16px;
+    color: white;
+    line-height: 1.5em;
+    
+    
+    
+  }
+
+  .third{
+   
+    font-size: 20px;
+    color: rgb(11, 60, 206);
+    padding: 15px;
+    border-radius: 8px;
+    border: none;
+
+    
+  }
