@@ -102,3 +102,13 @@
     color: rgb(101, 95, 95);
     
  }
+
+ .last{
+   display: flex;
+    background-color: black;
+    color: white;
+    gap: 555px;
+    padding: 100px 150px ;
+ }
+
+ 
