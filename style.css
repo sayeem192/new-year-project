@@ -130,27 +130,33 @@
 width: 100%;
  height: 400px;
  padding-left: 140px;
+
  
+
 }
 
 
 .kuva1
 {
   width: 80%;
-  height: 50%;
+  height: 60%;
 
   background-image:
     linear-gradient(to right,blue, rgba(237, 230, 235, 0.73)),
     url('watch.png');
-    
-    
-    
-    
-    
-   
    
    
 }
+
+.last0
+{
   
   
+  position: absolute;
+  padding-left: 100px;
+  
+  
+
 }
+
+  
