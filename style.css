@@ -122,5 +122,35 @@
   border: none;
   background-color: rgb(47, 79, 161);
   padding-top: 5%;
+  margin-top: 20px;
 }
 
+.kuva{
+  
+width: 100%;
+ height: 400px;
+ padding-left: 140px;
+ 
+}
+
+
+.kuva1
+{
+  width: 80%;
+  height: 50%;
+
+  background-image:
+    linear-gradient(to right,blue, rgba(237, 230, 235, 0.73)),
+    url('watch.png');
+    
+    
+    
+    
+    
+   
+   
+   
+}
+  
+  
+}
